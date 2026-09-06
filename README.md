@@ -46,20 +46,24 @@ This web application solves that problem by giving users **instant, intelligent 
 
 ## 📁 Project Structure
 
+\`\`\`
 Password-Strength-Checker/
 │
-├── Password_checker.py # Flask backend & security logic
+├── Password_checker.py       
 │
 ├── templates/
-│ └── index.html # Frontend HTML
+│   └── index.html            
 │
 ├── static/
-│ ├── css/
-│ │ └── style.css # Styling & animations
-│ └── js/
-│ └── script.js # Live checking logic
+│   ├── css/
+│   │   └── style.css         
+│   └── js/
+│       └── script.js         
 │
 └── README.md
+\`\`\`
+
+---
 
 
 ---
