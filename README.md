@@ -95,6 +95,7 @@ Then open your browser and go to: http://127.0.0.x:5xxxx
 ## 👨‍💻 Author
 
 **Samuel Ntuen**
+
 Junior Cybersecurity Analyst | DecodeLabs Intern 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](*https://www.linkedin.com/in/samuelntuen/*)
