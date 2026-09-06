@@ -47,14 +47,18 @@ This web application solves that problem by giving users **instant, intelligent 
 ## 📁 Project Structure
 
 Password-Strength-Checker/
+│
 ├── Password_checker.py # Flask backend & security logic
+│
 ├── templates/
 │ └── index.html # Frontend HTML
+│
 ├── static/
 │ ├── css/
 │ │ └── style.css # Styling & animations
 │ └── js/
 │ └── script.js # Live checking logic
+│
 └── README.md
 
 
