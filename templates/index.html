@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Strength Checker | DecodeLabs</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- Header -->
+        <div class="header">
+            <h1>🔐 Password Strength Checker</h1>
+            <p>DecodeLabs Cybersecurity Project 1</p>
+        </div>
+
+        <!-- Input Section -->
+        <div class="card">
+            <label>Enter Your Password</label>
+            <div class="input-wrapper">
+                <input type="password" id="passwordInput" 
+                placeholder="Type your password here..." 
+                oninput="checkPassword()">
+                <button onclick="togglePassword()">👁</button>
+            </div>
+
+            <!-- Strength Bar -->
+            <div class="strength-bar-container">
+                <div class="strength-bar" id="strengthBar"></div>
+            </div>
+            <p class="strength-label" id="strengthLabel">Enter a password to check</p>
+        </div>
+
+        <!-- Results Section -->
+        <div class="card" id="resultsCard">
+            <h3>📊 Analysis Results</h3>
+            <div class="score-display">
+                <span id="scoreText">0</span>
+                <span>/5</span>
+            </div>
+            <div id="suggestions"></div>
+        </div>
+
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
