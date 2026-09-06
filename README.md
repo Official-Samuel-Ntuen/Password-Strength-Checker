@@ -65,9 +65,6 @@ Password-Strength-Checker/
 
 ---
 
-
----
-
 ## ▶️ How To Run
 
 ```bash
