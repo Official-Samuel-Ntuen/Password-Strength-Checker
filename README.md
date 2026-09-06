@@ -94,7 +94,7 @@ Then open your browser and go to: http://127.0.0.x:5xxxx
 
 ## 👨‍💻 Author
 
-**Samuel Ntuen**
+**Samuel Ntuen** 
 
 Junior Cybersecurity Analyst | DecodeLabs Intern 2026
 
