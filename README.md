@@ -48,16 +48,23 @@ This web application solves that problem by giving users **instant, intelligent 
 
 \`\`\`
 Password-Strength-Checker/
+
 │
-├── Password_checker.py       
+├── Password_checker.py 
+
 │
 ├── templates/
+
 │   └── index.html            
 │
 ├── static/
+
 │   ├── css/
-│   │   └── style.css         
+
+│   │   └── style.css  
+
 │   └── js/
+
 │       └── script.js         
 │
 └── README.md
@@ -99,9 +106,9 @@ Then open your browser and go to: http://127.0.0.x:5xxxx
 
 ## 👨‍💻 Author
 
-**Samuel Ntuen** 
+**Samuel M. Ntuen** 
 
-Junior Cybersecurity Analyst | DecodeLabs Intern 2026
+Cybersecurity Intern | DecodeLabs Intern 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](*https://www.linkedin.com/in/samuelntuen/*)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Official-Samuel-Ntuen)
