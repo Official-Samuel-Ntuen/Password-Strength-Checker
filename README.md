@@ -54,17 +54,12 @@ Password-Strength-Checker/
 
 │
 ├── templates/
-
 │   └── index.html            
 │
 ├── static/
-
 │   ├── css/
-
 │   │   └── style.css  
-
 │   └── js/
-
 │       └── script.js         
 │
 └── README.md
